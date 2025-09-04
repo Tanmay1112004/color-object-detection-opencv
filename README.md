@@ -79,8 +79,3 @@ This project is licensed under the **MIT License**.
 ### ✨ Author
 
 Built with ❤️ by [Tanmay Kshirsagar](https://github.com/Tanmay1112004)
-
-```
-
-Do you want me to also generate the **`requirements.txt`** file so your repo is plug-and-play for anyone?
-```
