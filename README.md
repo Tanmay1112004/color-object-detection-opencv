@@ -22,6 +22,13 @@ This application detects objects based on their **color (Red, Green, Blue)** and
 
 ---
 
+## Demo Images
+
+![demo]()
+
+
+---
+
 ## 🚨 Problem Statement
 
 In many real-world scenarios:
