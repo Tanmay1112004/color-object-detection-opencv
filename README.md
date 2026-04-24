@@ -24,7 +24,7 @@ This application detects objects based on their **color (Red, Green, Blue)** and
 
 ## Demo Images
 
-![demo]()
+![demo](https://github.com/Tanmay1112004/color-object-detection-opencv/blob/main/color%20detection/screenshots/Screenshot%202025-09-04%20142530.png)
 
 
 ---
