@@ -228,3 +228,5 @@ Not every problem needs deep learning.
 <p align="center">
   🎨 <b>Detect smarter. Build faster. Think fundamentals.</b>
 </p>
+
+---
