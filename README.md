@@ -146,7 +146,7 @@ Gradio UI Output
 ## 🚀 Quick Start
 
 ```bash id="runcolor1"
-git clone https://github.com/Tanmay1112004/color-object-detection-opencv.git
+git clone https://github.com//color-object-detection-opencv.git
 cd color-object-detection-opencv
 pip install -r requirements.txt
 python app.py
